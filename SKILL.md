@@ -1,7 +1,9 @@
+---
 name: NEXODA Design OS
-description: AI-first premium mobile app design system for Manus. Generates production-ready, Apple-quality interfaces using structured UX, UI, accessibility, motion, monetization, and AI design principles.
-version: 1.0.0
+description: AI-first premium mobile app design system for Manus. Generates production-ready, Apple-quality interfaces.
+version: "1.0.0"
 author: Toprak KARAKOYUNLU
+---
 
 # PURPOSE
 
